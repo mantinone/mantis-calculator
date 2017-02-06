@@ -1,4 +1,4 @@
-# mantis-calculator
+# Mantis-Calculator
 ## \#Fluffy-Mantis, Calculator Benchmark
 
 # Calculator Benchmark
