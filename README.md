@@ -76,9 +76,9 @@ In stage 1 you will only be using `HTML` and `CSS` to build a clone of the OS X 
 
 ##### Specs
 
-- [ ] All text is in the [Roboto](https://fonts.google.com/specimen/Roboto) web font
+- [x] All text is in the [Roboto](https://fonts.google.com/specimen/Roboto) web font
 - [ ] Your `HTML` and `CSS` follows this [style guide](https://google.github.io/styleguide/htmlcssguide.xml)
-- [ ] The calculator is positioned in the center of the page, both vertically and horizontally
+- [x] The calculator is positioned in the center of the page, both vertically and horizontally
 - [ ] If the window is too small for the calculator, the page scrolls, both vertically and horizontally
 - [ ] Each button has a CSS transition to slightly darken the background color on hover over 100ms
 - [ ] Each button has a CSS transition to slightly darken the background color on click over 100ms
