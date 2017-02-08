@@ -57,15 +57,24 @@ body {
   align-items: center;
 }
 .calculator-button:hover {
-  background-color: green;
+  background-color: #bdbdbd;
+  transition-delay: 100ms;
 }
 .calculator-button:active {
-  background-color: purple;
+  background-color: #999;
+  transition-delay: 50ms;
 }
 
 .calculator-button-operator {
   background-color: #ff9004;
   color: white;
+}
+.calculator-button-operator:hover {
+  background-color: #f08000;
+}
+.calculator-button-operator:active {
+  background-color: #d47324;
+  color: gray;
 }
 
 .calculator-wide-button {
