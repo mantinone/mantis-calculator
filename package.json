@@ -1,0 +1,22 @@
+{
+  "name": "mantis-calculator",
+  "version": "1.0.0",
+  "description": "An html calculator, LG Benchmark project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mantinone/mantis-calculator.git"
+  },
+  "author": "Max Antinone @mantinone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mantinone/mantis-calculator/issues"
+  },
+  "homepage": "https://github.com/mantinone/mantis-calculator#readme",
+  "dependencies": {
+    "normalize.css": "^5.0.0"
+  }
+}
