@@ -1,6 +1,6 @@
-# Mantis-Calculato
+## Mantis-Calculator
 
-## What's this?
+# What's this?
 
 This was a "Benchmark Project" at learners guild.  There are a mountain of specs, and the goal is to see how far you can get in a single week.
 
