@@ -1,5 +1,10 @@
-# Mantis-Calculator
-## \#Fluffy-Mantis, Calculator Benchmark
+# Mantis-Calculato
+
+## What's this?
+
+This was a "Benchmark Project" at learners guild.  There are a mountain of specs, and the goal is to see how far you can get in a single week.
+
+The current repo represents a single week of work, and my first attempt at the project.
 
 # Calculator Benchmark
 
